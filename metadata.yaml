@@ -1,0 +1,81 @@
+_repo: The-Writings-of-Thomas-Paine---Volume-4--1794-1796---The-Age-of-Reason_3743
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Paine, Thomas
+    alias: Pain, Thomas
+    birthdate: 1737
+    deathdate: 1809
+    gutenberg_agent_id: '91'
+    url: http://www.gutenberg.org/2009/agents/91
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Paine
+  editor:
+    agent_name: Conway, Moncure Daniel
+    alias: Conway, M. D. (Moncure Daniel)
+    birthdate: 1832
+    deathdate: 1907
+    gutenberg_agent_id: '1283'
+    url: http://www.gutenberg.org/2009/agents/1283
+    wikipedia: http://en.wikipedia.org/wiki/Moncure_Daniel_Conway
+description: "The Age of Reason; Being an Investigation of True and Fabulous Theology\
+  \ is an influential work written by English and American political activist Thomas\
+  \ Paine. It follows in the tradition of eighteenth-century British deism, and challenges\
+  \ institutionalized religion and the legitimacy of the Bible. Originally distributed\
+  \ as unbound pamphlets, it was published in three parts in 1794, 1795, and 1807.\
+  \ It was a best-seller in the United States, where it caused a short-lived deistic\
+  \ revival. British audiences, however, fearing increased political radicalism as\
+  \ a result of the French Revolution, received it with more hostility. The Age of\
+  \ Reason presents common deistic arguments; for example, it highlights what Paine\
+  \ saw as corruption of the Christian Church and criticizes its efforts to acquire\
+  \ political power. Paine advocates reason in the place of revelation, leading him\
+  \ to reject miracles and to view the Bible as \"an ordinary piece of literature\
+  \ rather than as a divinely inspired text\". It promotes natural religion and argues\
+  \ for the existence of a creator-God.\nMost of Paine's arguments had long been available\
+  \ to the educated elite, but by presenting them in an engaging and irreverent style,\
+  \ he made deism appealing and accessible to a mass audience. The book was also inexpensive,\
+  \ putting it within the reach of a large number of buyers. Fearing the spread of\
+  \ what they viewed as potentially revolutionary ideas, the British government prosecuted\
+  \ printers and book-sellers who tried to publish and distribute it. Nevertheless,\
+  \ Paine's work inspired and guided many free thinkers.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- Atheism
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3743'
+  wikidata: Q1983019
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rationalism'
+- !lcsh 'Philosophy and religion'
+- !lcc 'JC'
+- !lcc 'BL'
+- !lcsh 'Political science'
+- GITenberg
+title: 'The Writings of Thomas Paine — Volume 4 (1794-1796): The Age of Reason'
+url: http://www.gutenberg.org/ebooks/3743
+wikipedia:
+- https://fi.wikipedia.org/wiki/The_Age_of_Reason
+- https://eo.wikipedia.org/wiki/La_Epoko_de_Racio
+- https://ar.wikipedia.org/wiki/%D8%B9%D8%B5%D8%B1_%D8%A7%D9%84%D8%B9%D9%82%D9%84
+- https://nl.wikipedia.org/wiki/The_Age_of_Reason
+- https://id.wikipedia.org/wiki/The_Age_of_Reason
+- https://pt.wikipedia.org/wiki/The_Age_of_Reason:_Being_an_Investigation_of_True_and_Fabulous_Theology
+- https://ast.wikipedia.org/wiki/La_ed%C3%A1_de_la_raz%C3%B3n
+- https://ia.wikipedia.org/wiki/Le_etate_del_ration
+- https://fa.wikipedia.org/wiki/%D8%B9%D8%B5%D8%B1_%D8%AE%D8%B1%D8%AF
+- https://fr.wikipedia.org/wiki/Le_Si%C3%A8cle_de_la_raison
+- https://es.wikipedia.org/wiki/La_edad_de_la_raz%C3%B3n
+- https://en.wikipedia.org/wiki/The_Age_of_Reason
+- https://commons.wikimedia.org/wiki/Category:The_Age_of_Reason
+- https://io.wikipedia.org/wiki/L%27epoko_di_raciono
+- https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BA_%D1%80%D0%B0%D0%B7%D1%83%D0%BC%D0%B0
+- https://ca.wikipedia.org/wiki/L%27edat_de_la_ra%C3%B3
+- https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%93%D7%9F_%D7%94%D7%AA%D7%91%D7%95%D7%A0%D7%94_(%D7%A1%D7%A4%D7%A8)
+- https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D0%BB%D1%96%D1%82%D1%82%D1%8F_%D1%80%D0%BE%D0%B7%D1%83%D0%BC%D1%83
+- https://ms.wikipedia.org/wiki/The_Age_of_Reason
+- https://es.wikiquote.org/wiki/La_edad_de_la_raz%C3%B3n
